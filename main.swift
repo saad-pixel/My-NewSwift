@@ -8,7 +8,7 @@ var personIsHome: Bool = false
 
 var colorIsGreen = false
 // coloris green means turn light on because there is a person entered tge room
-
+print(cityName)
 
 @IBAction func myButton(_sender : Any) {
 if colorIsGreen {
